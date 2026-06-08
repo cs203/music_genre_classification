@@ -1,0 +1,6 @@
+jupyterlab
+pydot
+numpy
+pandas
+tensorflow
+matplotlib
